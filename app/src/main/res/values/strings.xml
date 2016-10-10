@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">POTranslator</string>
+    <string name="action_settings">Settings</string>
+    <string name="speech_mode_prompt">Select Speech Mode</string>
+    <string name="language_prompt">Select Language</string>
+
+    <string-array name="speech_mode">
+        <item>Short Phrase</item>
+        <item>Long Dictation</item>
+    </string-array>
+
+    <string-array name="languages">
+        <item>American English</item>
+        <item>British English</item>
+        <item>French</item>
+        <item>German</item>
+        <item>Italian</item>
+        <item>Mandarin</item>
+        <item>Spanish</item>
+    </string-array>
+</resources>
